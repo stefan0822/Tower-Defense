@@ -1,0 +1,73 @@
+# Rose brick fortress kit, authored procedurally
+newmtl Brick_Rose
+Ka 0.25 0.25 0.25
+Kd 0.6510 0.4157 0.3569
+Ks 0.04 0.04 0.04
+Ns 8
+illum 2
+map_Kd ../Textures/Brick_Rose.png
+
+newmtl Stone_Sand
+Ka 0.25 0.25 0.25
+Kd 0.7373 0.5686 0.4471
+Ks 0.04 0.04 0.04
+Ns 8
+illum 2
+map_Kd ../Textures/Stone_Sand.png
+
+newmtl Stone_Light
+Ka 0.25 0.25 0.25
+Kd 0.8039 0.6667 0.5490
+Ks 0.04 0.04 0.04
+Ns 8
+illum 2
+map_Kd ../Textures/Stone_Light.png
+
+newmtl Wood_Dark
+Ka 0.25 0.25 0.25
+Kd 0.2824 0.1882 0.1569
+Ks 0.04 0.04 0.04
+Ns 8
+illum 2
+map_Kd ../Textures/Wood_Dark.png
+
+newmtl Iron_Black
+Ka 0.25 0.25 0.25
+Kd 0.1569 0.1569 0.1725
+Ks 0.04 0.04 0.04
+Ns 8
+illum 2
+map_Kd ../Textures/Iron_Black.png
+
+newmtl Cloth_Orange
+Ka 0.25 0.25 0.25
+Kd 0.8235 0.2667 0.1373
+Ks 0.04 0.04 0.04
+Ns 8
+illum 2
+map_Kd ../Textures/Cloth_Orange.png
+
+newmtl Paving
+Ka 0.25 0.25 0.25
+Kd 0.6549 0.4627 0.3922
+Ks 0.04 0.04 0.04
+Ns 8
+illum 2
+map_Kd ../Textures/Paving.png
+
+newmtl Brick_Dark
+Ka 0.25 0.25 0.25
+Kd 0.5137 0.3137 0.2863
+Ks 0.04 0.04 0.04
+Ns 8
+illum 2
+map_Kd ../Textures/Brick_Dark.png
+
+newmtl Mortar
+Ka 0.25 0.25 0.25
+Kd 0.4588 0.2902 0.2549
+Ks 0.04 0.04 0.04
+Ns 8
+illum 2
+map_Kd ../Textures/Mortar.png
+
